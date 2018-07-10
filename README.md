@@ -1,5 +1,5 @@
 # POJOUtility
-This utility will help to add getter setter methods.
+Simple getter setter generator.
 
 ###### Prerequisite:
 Copy all variable names & type into one file.
