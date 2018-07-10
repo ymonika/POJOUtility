@@ -2,7 +2,7 @@
 Simple getter setter generator.
 
 ###### Prerequisite:
-Copy all variable names & type into one file.
+Copy all variable names & variable type into one file.
 e.g. Please find input.txt from this repository.
 1st line of input.txt file must be ClassName
 
