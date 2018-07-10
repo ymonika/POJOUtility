@@ -13,7 +13,7 @@ PojoRunner.java
 Below is the example of Customer class, where name, id, age & salary are fields:
 _/src/main/resources/_ here you can find class file with getter setter
 
-//input.txt//
+input.txt:
 Customer
 * name String
 * id int
