@@ -1,0 +1,17 @@
+group 'POJOUtility'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+
+jar {
+    baseName = 'POJOUtility'
+    version = '0.1.0'
+}

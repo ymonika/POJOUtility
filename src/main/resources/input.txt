@@ -1,0 +1,6 @@
+Customer
+name String
+id int
+age int
+salary int
+mobileNo String
