@@ -21,7 +21,7 @@ public class GetterSetter {
     }
 
     public String getVariableDeclaration() {
-        return "" + varType + " " + varName + ";";
+        return "private " + varType + " " + varName + ";";
     }
 
     @Override

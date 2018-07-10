@@ -1,9 +1,9 @@
 public class Customer {
-String name;
-int id;
-int age;
-int salary;
-String mobileNo;
+private String name;
+private int id;
+private int age;
+private int salary;
+private String mobileNo;
 public String getName() { return name; }
 
 public void setName(String name) { this.name=name; }
