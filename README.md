@@ -10,7 +10,8 @@ e.g. Please find input.txt from this repository.
 PojoRunner.java
 
 ###### Examples:
-Below is the example of Customer class, where name, id, age & salary are fields:
+Below is the example of Customer class, where name, id, age & salary are fields,
+
 _/src/main/resources/_ here you can find class file with getter setter methods.
 
 input.txt file:
